@@ -3,7 +3,7 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Burp Proxy Lab is aimed to practice intercepting https requests and responses sent between the Burp Proxy and Target Server. This allows you to analyze how a website behaves when you pefrom certain actions.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
