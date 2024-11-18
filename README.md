@@ -1,7 +1,6 @@
 # Burp-Proxy-Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 The Burp Proxy Lab is aimed to practice intercepting https requests and responses sent between the Burp Proxy and Target Server. This allows you to analyze how a website behaves when you pefrom certain actions.
 
