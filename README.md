@@ -1,4 +1,4 @@
-# Burp-Proxy-La# PROJECTNAME
+# Burp-Proxy-Lab
 
 ## Objective
 [Brief Objective - Remove this afterwards]
